@@ -4,7 +4,7 @@
     <property name="created">2017-03-16T03:01:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-03-17T16:16:42</property>
+    <property name="modified">2017-04-13T22:20:30</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -21,7 +21,7 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="212c32" />
+    <option name="ADDED_LINES_COLOR" value="264b33" />
     <option name="BORDER_LINES_COLOR" value="15234a" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="222f35" />
