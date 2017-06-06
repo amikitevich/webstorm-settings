@@ -16,16 +16,16 @@
       <mask>t</mask>
       <mask>*.ts</mask>
       <mask>s</mask>
-      <mask>*</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
