@@ -5,28 +5,16 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*effect.ts" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.t</mask>
-      <mask>t</mask>
-      <mask>*.ts</mask>
-      <mask>s</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*</mask>
       <mask>*.scss</mask>
       <mask>*.sss</mask>
       <mask>*.ss</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.comp</mask>
       <mask>*.compo</mask>
       <mask>*.compon</mask>
@@ -36,6 +24,19 @@
       <mask>*.component.</mask>
       <mask>*.component.t</mask>
       <mask>*.component.ts</mask>
+      <mask>e</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.e</mask>
+      <mask>*.ef</mask>
+      <mask>*.eff</mask>
+      <mask>*.effe</mask>
+      <mask>*.effec</mask>
+      <mask>*.effect</mask>
+      <mask>*.effect.</mask>
+      <mask>*.effect.t</mask>
+      <mask>*.effect.ts</mask>
+      <mask>*effect.ts</mask>
     </recentFileMasks>
   </component>
 </application>
