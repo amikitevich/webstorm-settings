@@ -1,17 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.sss</mask>
-      <mask>*.ss</mask>
-      <mask>*.s</mask>
-      <mask>*.comp</mask>
       <mask>*.compo</mask>
       <mask>*.compon</mask>
       <mask>*.compone</mask>
@@ -34,8 +27,14 @@
       <mask>*юы</mask>
       <mask>*ю</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
