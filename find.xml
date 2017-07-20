@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../frontend/src/app/ngrx/reducers/board.reducer.ts - [atlaz-web]'" />
-    <option name="defaultScopeName" value="File '.../frontend/src/app/ngrx/reducers/board.reducer.ts - [atlaz-web]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../frontend/src/app/ngrx/reducers/board.reducer.ts - [atlaz-web]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.compo</mask>
       <mask>*.compon</mask>
