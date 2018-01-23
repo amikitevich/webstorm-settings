@@ -3,41 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.component</mask>
-      <mask>*.component.</mask>
-      <mask>*.component.t</mask>
-      <mask>*.component.ts</mask>
-      <mask>e</mask>
-      <mask>*.e</mask>
-      <mask>*.ef</mask>
-      <mask>*.eff</mask>
-      <mask>*.effe</mask>
-      <mask>*.effec</mask>
-      <mask>*.effect</mask>
-      <mask>*.effect.</mask>
-      <mask>*.effect.t</mask>
-      <mask>*.effect.ts</mask>
-      <mask>*effect.ts</mask>
-      <mask>*юы</mask>
-      <mask>*ю</mask>
-      <mask>*.htm</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.sss</mask>
-      <mask>*.ss</mask>
-      <mask>*.s</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-    </recentFileMasks>
   </component>
 </application>
