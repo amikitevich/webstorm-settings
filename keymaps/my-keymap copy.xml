@@ -1,0 +1,9 @@
+<keymap version="1" name="my-keymap copy" parent="Mac OS X 10.5+">
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="OpenElementInNewWindow" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+</keymap>
